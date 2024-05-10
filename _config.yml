@@ -43,8 +43,7 @@ author: nursechocs
 copyright: "Unpublished Work (cleft) 2024 {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-I am a orthopaedic scrub nurse who developed interest in cybersecurity. This website is showcasing what I have learnt so far in the course with Essex.
-I hope to provide more insight as to who I am and what I have to offer as I go along in the course. 
+I am a orthopaedic scrub nurse who developed interest in cybersecurity. This website is showcasing what I have learnt so far in the course with Essex. I hope to provide more insight as to who I am and what I have to offer as I go along in the course. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
